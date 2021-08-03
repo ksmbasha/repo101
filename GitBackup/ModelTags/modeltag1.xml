@@ -34,6 +34,9 @@
             <VocabularyTerm
              description=""
              name="gitbackup101"></VocabularyTerm>
+         <VocabularyTerm
+             description=""
+             name="gitbackup102"></VocabularyTerm>
         </ModelTagVocabulary>
     </ModelTags>
 </Entities>
