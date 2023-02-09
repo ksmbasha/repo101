@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities
+ build="b2013"
+ majorVersion="8"
+ minorVersion="4"
+ modelPersistenceProviderPackage="H2PersistenceProviderPackage"
+ revision="0"
+ schemaVersion="1040"
+ universal="password">
+    <ModelTags>
+        <ModelTagVocabulary
+         description=""
+         documentationContent=""
+         homeMashup=""
+         isDynamic="false"
+         lastModifiedDate="2021-08-03T11:57:00.617Z"
+         name="modeltag1"
+         projectName="GitBackup"
+         tags="">
+            <avatar></avatar>
+            <DesignTimePermissions>
+                <Create></Create>
+                <Read></Read>
+                <Update></Update>
+                <Delete></Delete>
+                <Metadata></Metadata>
+            </DesignTimePermissions>
+            <RunTimePermissions></RunTimePermissions>
+            <VisibilityPermissions>
+                <Visibility></Visibility>
+            </VisibilityPermissions>
+            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
+            <ConfigurationTables></ConfigurationTables>
+            <VocabularyTerm
+             description=""
+             name="gitbackup101"></VocabularyTerm>
+         <VocabularyTerm
+             description=""
+             name="gitbackup102"></VocabularyTerm>
+        </ModelTagVocabulary>
+    </ModelTags>
+</Entities>
